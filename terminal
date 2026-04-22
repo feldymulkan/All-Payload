@@ -1,0 +1,3 @@
+###Truncate
+
+echo "cvpbPGS%7Barfgrq_rap0qvat_481s064p%7D" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
